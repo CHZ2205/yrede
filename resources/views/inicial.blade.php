@@ -15,7 +15,7 @@
             color: #333;
         }
         header {
-            background-color: #333;
+            background-image: url(https://elements-cover-images-0.imgix.net/d1cdeb4d-eef0-4c83-8c6f-e27ab1d3f506?auto=compress%2Cformat&w=900&fit=max&s=c01185fdcaea1e24f0fd7ba5f471b084);
             color: #fff;
             padding: 10px 0;
             text-align: center;

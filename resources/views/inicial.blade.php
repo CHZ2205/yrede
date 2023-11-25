@@ -55,14 +55,24 @@
             border-top: 1px solid #ccc;
         }
         .postagem {
-           
+            align-items:center;
+            text-align: center; 
+            margin-top: 20px;"
+            display: inline-block; 
+            padding: 10px 20px;
+            background-color: blue; 
+            color: #fff; 
+            text-decoration: none; 
+            border-radius: 5px;
+            font-size:30px;
         }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>Bem-vindo ao yrede</h1>
+        <h1>Bem-vindo</h1>
+        <h3>site programado by Carlos</h2>
     </header>
 
     <nav>
